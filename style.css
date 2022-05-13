@@ -1,0 +1,54 @@
+
+body{
+    overflow:auto;
+    background-color:rgb(250, 250, 207);
+}
+img {
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+}
+
+label{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 35px;
+    color:cornflowerblue;
+    font-family: 'PT Serif', serif;
+}
+p{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 25px;
+    color:black;
+    font-family: 'PT Serif', serif;
+}
+h6{
+    font-size: 18px;
+    background-color:rgb(250, 250, 207);;
+    font-family: 'PT Serif', serif;
+}
+#div2{
+background-color: rgb(243, 243, 173);
+width:1490px;
+height:200px;
+border-radius: 0px;
+}
+h3,h4{
+    color: rgb(0, 0, 122);
+    margin-left: 20px;
+   
+    font-weight: 400;
+    font-family: 'PT Serif', serif;
+
+}
+span{
+    color:rgb(0, 0, 122);
+}
+
+#i{
+    width: 50%;
+    height: 400px;
+}
